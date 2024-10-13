@@ -1,0 +1,1816 @@
+Last updated: Jul 21 2020
+
+---Front cover
+KONAMI
+
+RA011
+
+Superdome Snatcher
+SD
+SNATCHER TM
+(c) KONAMI 1990
+
+User's Manual
+USER'S MANUAL
+
+2DD 3.5FLOPPY DISK x 3
+With SOUND CARTRIDGE
+
+RAM64K
+VRAM 128 KB or more
+
+MSX2
+MSX2+
+
+---Page 1
+
+user's manual
+
+Superdome Snatcher
+SD
+SNATCHER TM
+(c) KONAMI 1990
+
+Thank you for purchasing SD-SNATCHER. Please read this manual before playing, and enjoy using the game in the correct way.
+
+This story is a fictionalized version, and has no connection to the names of any real organizations, companies, or people that appear in the game.
+
+The Story
+
+Åú
+Cautions and Requests for Use
+P2
+
+Åú
+Launching method
+P3
+
+Åú
+how to play
+P3
+
+Åú
+How to operate
+P4
+
+Åú
+MAP movement mode
+P5
+
+Åú
+Battle Mode
+P7
+
+Åú
+Weapons and Equipment
+P8
+
+Åú
+appendix game
+P10
+
+Åú
+About Saving and Loading
+P11
+
+<<SD-SNATCHER setting documents>>
+
+
+
+prologue
+P12
+
+
+
+the characters
+P13
+
+
+
+JUNKER
+
+Åú
+Equipment at JUNKER Headquarters
+P17
+
+Åú
+JUNKER's Commanding Genealogy
+P19
+
+Åú
+The Five Articles of JUNKER
+P20
+
+Åú
+bounty hunter system
+P20
+
+Åú
+Runner's equipment
+P21
+
+Åú
+Weapons of the JUNKER
+P23
+
+
+
+SNATCHER
+
+Åú
+What is a snatcher?
+P27
+
+Åú
+Snatcher's Creatures.
+P28
+
+
+
+NEOÅEKOBEÅECITY
+
+Åú
+Neo-Cove City.
+P31
+
+Åú
+Neo-Cove energy form
+P34
+
+<<Battle Techniques>>
+
+
+
+Basic Battle Techniques
+P35
+
+
+
+Application I
+P36
+
+
+
+Application II
+P37
+
+---Page 2
+Cautions and Requests for Use
+
+Åú
+This product can be used in common with MSX2 and MSX2+ standard personal computers with VRAM 128KB or more.
+Åú
+This is a precision instrument, so do not disassemble it at all.
+Åú
+The Sanyo MPC-1, MPC-25FD, Hitachi MB-H3, etc. may cause an imbalance between the PSG and SCC sound, but this does not affect the progress of the game.
+Åú
+Do not use the hard pause and speed control functions on the unit, as the screen may be corrupted if you use them.
+Åú
+Depending on the combination of your computer and TV monitor, the sound may be unbalanced, but this does not indicate a cartridge malfunction. Please adjust the volume on your TV monitor.
+Åú
+When playing a game for long periods of time, take a 10-20 minute break every hour.
+
+Å°
+About the Disc
+
+1.
+Never remove a disk while the disk is being accessed (when the IN USE light is on).
+2.
+Do not apply FORMAT to the "SD-SNATCHER" disk or save programs, etc. without permission.
+3.
+Do not open the shutter of the 3.5-inch disc and touch the magnetic surface inside or allow it to come near the magnetic area.
+4.
+Do not immerse the disc in water or place it in a dusty or humid place.
+
+Package Contents
+The "SD-SNATCHER" package includes the following.
+1.
+Three scenario discs (3.5inch/2DD)
+2.
+1 SD-SNATCHER-specific sound cartridge
+3.
+One user's manual (this book).
+4.
+One label for user disks.
+
+2
+---Page 3
+Superdome Snatcher
+SD
+SNATCHER TM
+
+Launching method
+how to play
+How to operate
+
+Launching method
+
+Insert the "SD-SNATCHER" sound cartridge into the slot of your hardware (MSX2 or MSX2+) and insert the scenario disk No. 1 into Disk Drive A and turn on the power. The game will start up automatically.
+
+Caution.
+Åú
+Please refer to the hardware manual for precautions on using disk drives and connection methods.
+Åú
+Do not replace the disk until the instructions appear on the screen.
+Do not switch disks until the instructions are displayed on the screen.
+Åú
+Be sure to turn off the power when removing and inserting cartridges.
+
+This game is for single player only.
+One FORMAT blank disc is required as a user disc.
+Please use a commercially available 3.5" save disc.
+
+How to play
+Pressing the SPACE key (or Trigger A) while the title or demo is displayed will move to the screen to select "Start from the beginning" or "Load and start".
+
+Åú
+When you "start from the beginning", you must register the names of the players in the game.
+You can enter a name of up to 6 characters.
+
+Cursor keys (Å™Å´Å©Å®)
+character selection
+
+SPACE key (or trigger A)
+character determination
+
+GRAPH key (or trigger B)
+character deletion
+
+If you choose END without a name, the player's name will be changed to Gillian.
+
+Å£
+Name Input Screen
+
+3
+
+---Page 4
+When you have finished typing, press the SPACE key (or trigger A) in time for END. The prologue demo will begin and the game will start.
+
+Select "Load and Start" to load the game.
+Select player numbers 0-9 using Å™Å´ and press SPACE key (or Trigger A) to start the game from the point where you saved last time.
+
+Controls
+
+This "SD-SNATCHER" can be used with either a keyboard or a joystick. There are two main game modes.
+
+MAP Movement Mode
+Move through the MAP and investigate.
+Battle Mode.
+This is the mode in which you fight against the enemy.
+
+The table below shows the operation support for each mode.
+
+Keyboard
+joystick
+movement
+
+MAP movement mode
+
+Å™Å©Å®Å´Å´
+
+Up, down, left and right levers
+
+Åú
+Player movement (4 directions)
+Åú
+Move the cursor
+
+SPACE Key
+
+Trigger A
+
+decision
+conversation stopper
+
+GRAPH key
+
+Trigger B
+
+cancel
+conversation fast forward
+
+Battle Mode
+
+Å™Å©Å®Å´Å´
+
+Up, down, left and right levers
+
+Åú
+Target movement
+Åú
+Move the cursor
+
+SPACE Key
+
+Trigger A
+
+Åú
+decision
+Åú
+display spacing
+
+GRAPH key
+
+Trigger B
+
+Åú
+cancel
+
+special key
+
+F-1 key
+
+-
+
+Åú
+Primary stopping of the game
+
+FÅE2 keys
+
+-
+
+Åú
+Save the game
+
+F. 3 keys
+
+-
+
+Åú
+Loading Games
+
+4
+
+---Page 5
+Superdome Snatcher
+SD
+SNATCHER TM
+
+MAP movement mode
+
+MAP movement mode
+
+Players will talk to people and investigate in this MAP movement mode.
+
+Å•.
+player on the move
+
+player name
+
+lifemeter
+
+STRENGTH
+(Offensive power)
+
+level
+
+money in one's possession
+
+Number of Lives Remaining
+
+DEFENCE.
+
+SPEED (Agility)
+
+The player's condition will be displayed at the bottom of the screen while moving.
+
+Description of the life meter
+
+The rest of your life.
+
+damage
+
+Experience (When this gauge reaches the far right, the player levels up to the next RANK)
+
+If you move the player to the front of the person you want to talk to in the MAP movement mode, you can have a conversation with that person.
+If there is an arrows mark at the end of the conversation, the conversation will continue.
+Press the SPACE key (or trigger A) to advance to the next conversation.
+
+While in MAP movement mode, press the SPACE key (or trigger A) to open a window.
+
+Conversation screen
+
+1.
+
+2.
+
+1.
+INVENTORY
+
+Select to check your belongings or use them if you want to use them.
+
+2.
+STATUS
+
+Select this option if you want to check the status of the player.
+
+5
+
+---Page 6
+Åú
+Selecting INVENTORY will display the player's current possessions and hovering the cursor over them will give you a detailed description of their features.
+
+Press the SPACE key (or trigger A) to use Junker's High, for example.
+
+To go back to MAP movement mode, press the GRAPH key (or trigger B).
+
+Å•.
+INVENTORY screen
+
+name
+
+1.
+
+Features.
+
+2.
+
+3.
+
+1.
+STR (STRENGTH)
+
+Gun Attack Power
+
+
+2.
+BLT (BULLET)
+
+Current number of bullets.
+
+
+3.
+SKL (SKILL)
+
+proficiency level
+The more you use it, the higher it goes, the more offensive it is.
+
+Åú
+The STATUS screen shows the player's status in detail.
+
+To go back to MAP movement mode, press the GRAPH key (or trigger B).
+
+Å•.
+STATUS Screen
+
+1.
+
+2.
+
+3.
+
+4.
+
+1.
+LIFE
+
+The player's health. The top number is the current LIFE, the bottom is the maximum value.RANK is the player's level.
+EXP is the experience level, and the top number is the current experience level. The bottom is the experience value until the next RANK increase.
+
+2.
+STR (STRENGTH)
+
+The player's attack power, where LVL is the level of attack power.
+EXP is the experience of the attack power.
+
+3.
+DEF (DEFENSE)
+
+The player's defense, where LVL is the level of defense.
+EXP is the experience of the defensive power.
+
+4.
+SPD (SPEED)
+
+Player agility; LVL is the level of agility.
+EXP is the experience level of subtlety.
+
+Strength, Attack, Defense, and Resourcefulness are independent of each other, and their levels increase as they gain experience.
+
+6
+
+---Page 7
+Superdome Snatcher
+SD
+SNATCHER TM
+
+Battle Mode
+Weapons and Equipment
+
+Battle Mode
+
+When the player comes into contact with an enemy, the Battle Mode screen will be displayed.
+
+Å•.
+Battle Mode Screen
+
+1.
+
+2.
+
+3.
+
+1.
+Player conditions.
+
+2.
+Enemy Condition. (When two enemies are present, the one targeted is shown. Enemy STATUS is the same as the player's, but with an ACC (accuracy) parameter added.
+
+3.
+Command/Conversation.
+
+ATTACK
+
+Gun Attack. If you decide on the first gun you use, it will be used in the next turn. If you want to change it, press GRAPH (or trigger B) to return to the command screen.
+
+OPTION.
+
+Attacks with special weapons.
+
+DRAG
+
+Use of chemicals. Strength recovery and other activities.
+
+ESCAPE.
+
+Escape.
+
+METAL
+
+Automatic attack by petit metal. If you want to abort, press the GRAPH key (or trigger B) to return to the command screen when you select a gun.
+
+Åú
+When you finish attacking an enemy, the damage the enemy has taken will be displayed.
+
+Åú
+When you defeat an enemy, your EXP will increase depending on how you defeat it.
+
+(For more information on how to fight, see page 35).
+
+7
+
+---Page 8
+
+heave-ho!
+
+Fun Fun...
+
+Weapons and Equipment
+
+Åú
+Players' weapons and weapons can be purchased in the Mechanic Room and Clinic Room in the JUNKER headquarters and the dark shop JOY-DIVISION in Neo-Cove City.
+
+Åú
+Mechanic Room, getting weapons from "Harry
+
+You can obtain guns and special weapons and fill up your blaster with energy.
+
+Guns.
+
+special weapon
+
+Blaster energy loading
+
+Gun Features
+
+price
+
+Player's money
+
+Åú
+Clinic Room, obtained from "Robin
+
+The following medications are prescribed here
+
+Strength recovery medication (Junkers High)
+Poison Neutralizer (Neutralizer)
+Stimulant (gyro)
+
+Åú
+Get it from the dark shop JOY-DIVISION
+
+This is where you'll find blasters to fill up on energy, regain your strength, buy drugs (medicines) and much more.JOY-DIVISION is a chain of stores throughout the City.
+
+8
+
+---Page 9
+Superdome Snatcher
+SD
+SNATCHER TM
+
+Weapons and Equipment
+appendix game
+
+Before you leave for the investigation, you can prepare your equipment in the armory located in the mechanic room in Junker Headquarters.
+When you stand in front of the armory, the door will open and the following display will appear at the bottom of the screen, move the cursor to the area you want to see.
+
+Å•.
+Armory screen
+
+cursor
+
+gun
+
+Optional weapons
+
+END
+
+The number of weapons a player can have is limited.
+
+Guns.
+Less than 3 chisels
+
+special weapon
+Up to 3 types
+
+Åú
+When you want to equip it, move the cursor over it and press the SPACE key (or trigger A).
+
+Åú
+When you want to remove your equipment, move the cursor to the weapon you want to remove and press the SPACE key (or trigger A).
+
+Åú
+The weapons you have equipped are flashing red and displayed.
+
+When leaving the armory, press the SPACE key (or trigger A) or the GRAPH key (or trigger B) in conjunction with END.
+
+Uhehe.
+
+ta-da!
+
+9
+
+---Page 10
+
+every day
+
+Yeesh.
+
+Oh!
+
+appendix game
+
+The game contains two different appendix games.
+These games can be involved in the scenario and you have to meet certain conditions to move on.
+
+Snatcher Whack.
+
+(Numbskull)
+
+(Keyboard)
+
+Snatcher Slapper has different controls due to the nature of the game.
+The keyboard's numeric keypad, or keyboard, corresponds to the same position as the nine snatcher holes.
+Either the Snatcher or a human will emerge from the hole, and you can quickly tap only the Snatcher with the numeric keypad or keyboard.
+You get 100 points for each snatcher, and if you hit a human by mistake, you lose 100 points.
+
+Slot Machine
+
+latch indication
+
+premium
+
+Multiple of the result
+
+payout
+
+money in one's possession
+
+EXIT
+
+slot start
+
+The "Slot Machine" will give you $5 in increments for each bet selected by SPACE (or Trigger A).
+When START is selected, press SPACE (or Trigger A) to start spinning.
+The slot will stop automatically.
+The multiplier is determined by the order of the symbols.
+
+10
+
+---Page 11
+Superdome Snatcher
+SD
+SNATCHER TM
+
+About Saving and Loading
+
+Before you start the game, you must prepare a 3.5-inch disk in 2DD format for the user disk. (Please refer to the hardware manual for detailed FORMAT instructions.
+One disc can store game data for 10 players.
+It is not possible to use save discs from other games at the same time.
+
+Save.
+
+When you want to save the game, press the F-2 key on your keyboard. The screen will change to the save screen. (However, you cannot save the game during battle mode.
+
+Use the cursor keys (Å™Å´) to select the number you want to save, then press the SPACE key (or Trigger A) to save the game.
+
+Load
+
+If you want to load the game, press the F-3 key on your keyboard. It will change to the load screen.
+Use the cursor keys (Å™Å´) to select the player 0-9 that is being saved. (Note: Players cannot be loaded in battle mode.
+
+Select the saved player 0-9 using the cursor keys (Å™Å´).
+
+Press the SPACE key (or Trigger A) to start the game from the last saved location.
+
+So, heh.
+
+ouch!
+
+incessantly
+
+11
+
+---Page 12
+prologue
+
+You're not going to be able to do that.
+June 6, 1991, Moscow.
+A biohazard occurs at the Chernoton Research Institute. Lucifer Alpha, a bacterial weapon under development, leaks into the atmosphere and at once destroys 80% of Eastern Europe and Eurasia. At this time, about half of the world's population is wiped out. This was later referred to as the "Descent of the Great Demon King".
+........and 50 years later.
+December 22, 2039: An unknown bioroid is found inside the body of a plane crash.
+Once again, a new crisis for humanity has begun...
+
+Åü
+Neo-Kobe City, a city of decadence.
+Mysterious bioroids, manipulating numerous metal creatures to attack and kill one person after another... the Snatchers.
+Their emergence has plunged the people into the depths of fear.
+
+Åü
+But extreme fear has created a special police squad for counter-snatchers.
+Trained and ruthless men who buy danger.
+Judgement Uninfected Naked Kind & Execute Ranger.
+People called them JUNKER (junkers).
+
+Åü
+A man is on the verge of being assigned to Junker.
+Gillian Sheed is a man who is about to fight on the front lines, drawn by the "shadow" that hovers over his lost memories.
+
+Who is this Snatcher? What is hidden in Gillian Seed's memories? ...A thrilling and suspenseful investigation is about to begin!
+
+Setting Documents
+
+Superdome Snatcher
+SD
+SNATCHER TM
+(c) KONAMI 1990
+
+---Page 13
+CAST
+the characters
+
+Gillian Seed
+
+<Protagonist> (estimated age 31)
+
+In June 2039, he and Jamie were taken into custody while cold sleeping in Siberia. He has had amnesia ever since.
+His name and relationship to Jemmy were found on his personal belongings, but his memory has never been recovered.
+After undergoing special training in the army, he was assigned to Neo-Kobe as a runner for Junker.
+
+Navigator.
+
+petite metal
+
+Jamie Seed.
+
+(Estimated age: 29)
+
+Gillian's wife. Like Gillian, she has amnesia.
+She has been living with Gillian for two years now, but the relationship has been unsuccessful, and they have been separated for two years now.
+She works at the Neo-Koubaix Pharmaceutical Research Institute.
+Upon learning of Gillian's assignment to JUNKER, he is seconded to Junker to maintain the clinic robot Robin at his insistence.
+
+13
+
+---Page 14
+Random Hadjil
+
+(Age Unknown)
+
+The mysterious "bounty hunter" (bounty hunter).
+Although he is registered as a hunter, his address and everything else is unknown. However, he is a highly skilled hunter and has taken out three Snatchers so far.
+
+Jean-Jacques Gibson.
+
+(Age 55)
+
+He worked as a "science cop" for 30 years, but moved to JUNKER after his wife, Alice Gibson, was killed during the Bioroid Panic of 2040.
+With Deca's experience and knowledge, his hatred of snatchers is stronger than anyone else's. He is a veteran detective with a keen eye for detail. He has a taste for antiques and doesn't talk much, and currently lives with his daughter, Catherine.
+
+Navigator.
+
+Little John.
+
+14
+
+---Page 15
+CAST
+the characters
+
+Benson Cunningham.
+
+(Age 46)
+
+Director of the JUNKER Headquarters. Director of the Snatcher Task Force. After serving as the head of the Anti-Snatcher Task Force, he is appointed as the Director of the JUNKER Headquarters. He leads JUNKER with his calm judgment and precise strategy.
+
+Harry Benson.
+
+(Age 55)
+
+JUNKER's Mechanic Man. From RUG/HUNT, the anti-snatcher/science team.
+Excellent scientific staff. Lost his parents in the Catastrophe and was taken in by the government. A three-time Nobel Prize winner for his work on the Ram jet engine and other projects. All of the weapons and weapons, including the Runner's Navigator and Blaster, are created by him.
+In Junker headquarters, he is known as "Father".
+
+Micah Slayton.
+
+(Age 23)
+
+Receptionist and operator at JUNKER.
+Graduated from Kobe Gakuen Urban University, majoring in Criminal Psychology and Social Information Processing. After graduating, he worked at the Kolbe Institute of Special Crimes and started working at JUNKER on the recommendation of the director. He is of Japanese and Jewish descent. She looks cool at first glance, but is a passionate woman.
+
+15
+
+---Page 16
+Clinician Robot Robin.
+A medical robot dedicated to the physical maintenance of runners, who are in constant danger.
+Developed by the Koobe Institute for Pharmaceutical Research, it is able to read the user's physical data from Alpha Bill's Big Mother and provide optimal treatment.
+Its design is thought to be taken from a robot in an American movie from the mid 1900s.
+
+Jeffrey Tonegawa.
+
+(Age 23)
+
+His grandfather was a Nobel Prize-winning scientist, and at the age of 20, he graduated at the top of his class from Kyoto University of Technology with a degree in particle engineering.
+When he learned that Harry, the inventor of the Ram Jet, was in Neo-Kobe, he joined JUNKER. He is currently Harry's assistant, and is highly trusted by Harry.
+He looks frail, but he has a passion inside and is stubborn.
+
+Catherine Gibson.
+
+(Age 14)
+
+Jean's only daughter. Girl model.
+Winner of "Miss Thirteen" in 2041.
+Since then, she has worked mainly as a commercial model for holographic signs. She shocked the media with her extreme light and dark charms.
+She has a stubborn but gentle side.
+
+16
+
+---Page 17
+JUNKER
+-A junker.
+
+Equipment at JUNKER Headquarters
+
+JUDGEMENT UNINFECTED
+NAKED KIND & EXECUTE RANGER.
+
+JUNKER.
+
+SINCE 2042.
+
+Åú
+director's office
+Åú
+
+JUNKER Headquarters Director Benson Cunningham's room.
+The navigator monitors the information in real time and is ready to give orders at any time.
+When a runner is stalled in an investigation, he gives the appropriate orders.
+
+Åú
+reception desk
+Åú
+
+This is the only entrance to the JUNKER headquarters.
+The building is monitored 24 hours a day, and no outsiders are allowed to enter.
+An operator is on duty at all times to check the building.
+
+17
+
+---Page 18
+Åú
+mechanic's room
+Åú
+
+All of the weapons and weapons used by the Runners are made here.
+The room itself is a factory, as Mechanic Man Harry has created a CAD system that allows him to create them.
+
+There is a runner's armory set up, where runners can stock up on weapons they cannot equip.
+
+
+clinic room
+Åú
+
+A clinic robot robin is placed to provide physical therapy for runners who are constantly at risk, prescribing the recovery drug Junkers High and other toxic substance neutralizers.
+
+Åú
+Neo-Kobe Police Building
+Åú
+
+(a.k.a. Big Corn)
+120 floors above ground, 25 floors underground and 458 meters high.
+The first floor is used as JUNKER headquarters. All floors are used by government agencies and no private companies are allowed to use the building.
+
+18
+
+---Page 19
+JUNKER
+-A junker.
+
+JUNKER's Commanding Genealogy
+
+Åú
+JUNKER is composed of the following, with Mayor Neo Kove as its chief executive
+Åü
+A commanding leader, known as "The Head.
+You're not going to be able to do that.
+The "staff" - mechanics, operators and clinic robots.
+Åü
+The investigators, known as "runners," and the navigator who accompanies them.
+Åü
+As an indirect division, the Forensics Division "JUNK" and the Neo-Cove Self-Defense Force "K.S.D.F.
+
+Åú
+Mayor NeoCove.
+
+Paula McCain.
+
+Åú
+head
+Åú
+
+Benson Cunningham.
+
+JUNKER's Brain giving command to runners
+
+Åú
+mechanic
+Åú
+
+Harry Benson.
+
+Development of equipment to be used by runners
+
+Åú
+operator
+Åú
+
+Micah Slayton.
+
+Processing of data sent by navigators and others
+
+Åú
+clinic
+Åú
+
+Robin.
+
+Perform physical maintenance on runners.
+
+Gillian Seed
+
+petite metal
+
+Åú
+runner
+Åú
+
+We'll work with the navigator to conduct a real investigation.
+
+Åú
+navigator
+Åú
+
+Support the investigation and combat of runners.
+
+Jean-Jacques Gibson.
+
+Little John.
+
+Åú
+JUNK
+Åú
+
+Perform post-case processing and forensic analysis
+
+Åú
+K.S.D.F.
+Åú
+
+Provide armed support to the runner during large scale combat
+
+19
+
+---Page 20
+The Five Articles of JUNKER
+
+(1)
+The purpose of JUNKER is to process the bioroid: the snatcher.
+(2)
+A JUNKER must not hurt anyone, even if it is to do (1).
+(3)
+JUNKER cannot be physically searched or detained unless there is full evidence of his snatcher status. (Article 18.12 of the Civil Code, Human Rights Protection on Snatcher Issues)
+(4)
+JUNKER has a duty to cooperate with and support the public bounty hunters (Section 3 of the Criminal Law Special Provisions, Assistance to Bounty Hunters).
+(5)
+A JUNKER is allowed to possess special powers, blasters, navigators, and tricycles to perform (1).
+
+Åú
+JUNKERs are required to perform their duties in accordance with the above regulations and may be deprived of their "JUNKER rights" if they violate the regulations.
+
+Bounty Hunter System.
+
+At the end of 2041, the Metropolitan Police Department enlisted the help of citizens regarding snatchers and established the following bounty system
+A "bounty hunter" system was enacted for all citizens of Kouvet who have the right to vote, allowing them to register as bounty hunters through a simple procedure (proof of firearm ownership, psychological test, JUNKER test....etc.). Remuneration after snatcher processing will be considered according to the situation.
+For registered hunters, a large amount of insurance coverage is added to the accuracy of the claims for accidents in the course of duty.
+
+BOOOM.
+
+hoo-hoo-hoo
+
+20
+
+---Page 21
+JUNKER
+-A junker.
+
+Runner's equipment
+
+Åú
+tricycle
+Åú
+
+An amphibious vehicle parked in front of JUNKER headquarters that automatically transports a runner to an area of investigation simply by designating his or her destination through an autopilot mechanism. A video phone can also be used to summon a runner.
+Three wheels drive for land travel, retractable wheels for aerial flight, and jet flight.
+
+Åú
+Blasters
+Åú
+
+The primary weapon for dealing with snatchers and metal creatures.
+There are many variations, and it can be used according to the situation.
+
+Åú
+JUNKER Card
+Åú
+
+All data about the person is stored in the optical disk.
+It is also used as a credit card and the amount of the runner's expenses are entered on it.
+
+Åú
+JUNKER Coat
+Åú
+
+Highly durable, withstands high temperatures up to 800ÅãC and protects the skin. Ordered on a per-runner basis.
+
+Åú
+Moving from JUNKER headquarters to the investigation area
+
+Once you get into a parked tri-cycle, you can select an area that can be searched, and once determined, it will be automatically transported.
+
+21
+
+---Page 22
+Åú
+navigator
+
+(NAVI METAL GEAR mkII putit = petit metal)
+
+The navigator is a shoulder-mounted type navigator that has been miniaturized to the limit to concentrate functions so as not to interfere with the runner's activities.
+It analyzes the enemy and investigative information. Connected to the headquarters, the status of the investigation is transmitted in real time.
+In addition, it can control the runner's deltoid muscle, upper arm, and biceps, and even if the runner is unconscious, it can attack the enemy. For this reason, it needs to be placed on the runner's critical arm side.
+
+Åú
+special weapon
+Åú
+
+There are various grenades, mines, etc. It has been developed as a support system for multifunctional metal creatures that cannot be dealt with by blasters alone.
+
+Åú
+chemicals
+Åú
+
+A variety of drugs, including the all-purpose fatigue remedy Junkers High.
+
+Åú
+Transferring from the investigation area to JUNKER headquarters or other investigation areas
+
+If a video phone is installed in the area being investigated, you can contact headquarters and call Tri-Cycle.
+
+22
+
+---Page 23
+JUNKER
+-A junker.
+
+Weapons of the JUNKER
+
+Guns used by JUNKER
+
+(1)
+hand blaster
+
+type
+effective area
+strength
+SPEED
+
+blaster
+1
+4
+LOW
+
+(2)
+Stingray
+
+type
+effective area
+strength
+SPEED
+
+laser
+1
+6
+HIGH
+
+(3)
+fireball
+
+type
+effective area
+strength
+SPEED
+
+live bullets
+1
+10
+LOW
+
+(4)
+Knight Splinter.
+
+type
+effective area
+strength
+SPEED
+
+blaster
+1
+12
+HIGH
+
+(5)
+short-stormer
+
+type
+effective area
+strength
+SPEED
+
+live bullets
+4
+20
+LOW
+
+(6)
+Black Hawk.
+
+type
+effective area
+strength
+SPEED
+
+laser
+1
+24
+HIGH
+
+BANG
+
+23
+
+---Page 24
+(7)
+greyhounder
+
+type
+effective area
+strength
+SPEED
+
+blaster
+4
+30
+LOW
+
+(8)
+interceptor
+
+type
+effective area
+strength
+SPEED
+
+laser
+4
+40
+HIGH
+
+(9)
+super glade
+
+type
+effective area
+strength
+SPEED
+
+live bullets
+6
+48
+LOW
+
+(10)
+Mad Maximum.
+
+type
+effective area
+strength
+SPEED
+
+laser
+6
+60
+HIGH
+
+(11)
+needle pointer
+
+type
+effective area
+strength
+SPEED
+
+live bullets
+1
+70
+LOW
+
+(12)
+Midnight Express.
+
+type
+effective area
+strength
+SPEED
+
+blaster
+9
+90
+HIGH
+
+24
+
+---Page 25
+JUNKER
+-A junker.
+
+Special Weapons Used by JUNKER
+
+(1)
+stick bomb
+
+Hand Grenade. Can be thrown at an enemy to inflict significant damage to the entire body.
+
+(2)
+distraction ball
+
+A more powerful grenade than a stick bomb.
+
+(3)
+missile launcher
+
+The highest destructive power of any grenade-type weapon.
+
+(4)
+tri-buster
+
+A steel corker that wraps around the battle field. If an enemy with a tire-based movement method steps on it, it can reduce its movement speed.
+
+(5)
+Grand Mine.
+
+Mine. If an enemy walking on the ground steps on it, the drive module is discarded, reducing movement speed.
+
+(6)
+comet
+
+A mine that floats by air pressure.
+It can damage enemy verniers and other objects.
+
+25
+
+---Page 26
+(7)
+chaff
+
+A small aluminum bullet. Disperses to jam enemy radio waves.
+Interferes with the vision of the wave-sensing system, contacting fellow soldiers.
+
+(8)
+Milky Way
+
+Large-capacity small aluminum bullets. The jamming rate of the chaff is nearly doubled.
+
+(9)
+circuit killer
+
+Short-circuits the enemy's control terminal, bringing it to a standstill.
+
+(10)
+flayer
+
+Flares. Can brighten a dark room.
+
+Drugs.
+
+(1)
+Junker's High
+
+Rapid-effect recovery agent. Restores up to 128 points of strength.
+
+(2)
+newt riser
+
+A neutralizer of the enemy tree developed by the enemy tree, the Anti-Junkers High Bacteria, a toxic biological weapon. If the player is affected by this anti-Junker's High bacteria, the player will not be able to get the effects of Junkers High.
+
+(3)
+gyroscope
+
+A stimulant used by the enemy to counteract the paralyzing bullets (the player's entire body becomes numb and immobile).
+Use can be left to Petit Metal.
+
+26
+
+---Page 27
+SNATCHER
+-The Snatcher.
+
+What is a snatcher?
+
+A mysterious bioroid.
+It appears every winter since First Contact in 2039, killing people, secretly replacing them with its own, and infiltrating society. It is clothed in artificial skin and can sweat and bleed. It is extremely organic and inorganic. They are almost indistinguishable from the original. They are called "snatchers" from the fact that they switch with the human body (snatch).
+
+FRONT
+
+SIDE
+
+BACK
+
+Åú
+The Snatch system
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Niff.
+
+27
+
+---Page 28
+Snatcher's Creatures.
+
+Snatchers have created a wide variety of useable robots as a means of direct attack on Neo-Covecity. These are called "Metal Creatures".
+There are currently more than 40 of them, with variations such as offensive, defensive, and fast-moving types. They vary in intelligence, ranging from those that can only use guns such as needle guns to more sophisticated ones that can throw paralyzing bullets and nets, depending on the opponent.
+
+In-Sector.
+
+The weakest mecha within a metal creature. Easy for new runners to handle.
+
+Attack Power.
+defensive capability
+speed
+accuracy
+
+3
+2
+4
+4
+
+digit lock
+
+It has average functionality and is relatively easy to handle. However, it has swarming characteristics and should never be underestimated.
+
+Aggression.
+defensive capability
+speed
+accuracy
+
+
+5
+3
+6
+6
+
+running accumulation
+
+While none of its attack power, speed, or abilities jump out at you, it has a high antenna output and often calls out to fellow metal creatures.
+
+Attack Power.
+defensive capability
+speed
+accuracy
+
+10
+2
+8
+14
+
+28
+
+---Page 29
+SNATCHER
+-The Snatcher.
+
+Hit on the Fly
+
+It moves in the air by vernier movement. As such, its movement speed is fast.
+
+Attack Power.
+defensive capability
+speed
+accuracy
+
+6
+4
+16
+14
+
+Funeral Master
+
+The body is heat treated against the body.
+Some of the player's guns will have inefficient attacks.
+
+Attack Power.
+defensive capability
+speed
+accuracy
+
+12
+6
+15
+14
+
+hololith wheel
+
+It is well armed and highly offensive. They move by tire.
+
+Attack power.
+defensive capability
+speed
+accuracy
+
+13
+6
+14
+12
+
+29
+
+---Page 30
+optic crown
+
+High quality visual sensors and high visibility. Its high mission capability allows it to be highly mobile.
+
+Offensive power
+defensive capability
+speed
+accuracy
+
+18
+5
+16
+17
+
+light crystal
+
+Features mirrored armor. It is resistant to laser weapons.
+
+Attack Power
+defensive capability
+speed
+accuracy
+
+19
+6
+20
+21
+
+army bear
+
+Attack, speed, and defense are all high, and snatchers may carry them around for self-defense. It should be avoided in matches when you are less skilled.
+
+Attack Power.
+defensive capability
+speed
+accuracy
+
+40
+11
+24
+16
+
+30
+
+---Page 31
+NEO-KOBE-CITY
+-Neo-Cove City.
+
+Neo-Cove City.
+
+Neo-Kobe City originated at the end of the 20th century from the man-made islands in the Seto Inland Sea, such as Port Island, Rokko Island, High Harborland, Kobe International Airport (Kobe Airport), and Kobe Industrial Complex, which were divided into five blocks. The expansion of the city gave birth to the great man-made continent we know today as Neo-Kouvet City.
+Neo-Kouvet City is a high-tech information city of the 21st century with intelligent buildings equipped with information and communication systems, artificial land and waterfront, and complete with environmental facilities such as underground motorways, underground energy lines, waste disposal pipelines, fiber optics, artificial rivers, district cooling and vacuum systems from the beginning.
+Neo-Cove City was created as an international city, approved for occupancy by various racial and ethnic groups, and was a cosmopolis intended for cultural and technological exchange, which resulted in the creation of a racial crucible at sea. Today, it is the first and second largest crime city in the world (Climbville), which has become a haven for various criminals and mutants.
+
+31
+
+---Page 32
+factory zone
+
+warehouse district
+
+center plaza
+
+downtown
+
+Sid's Garden
+
+head office
+
+total area
+
+600,000 km2
+
+total population
+
+6 million (registered users only)
+
+unregistered population
+
+An estimated 500,000 people.
+
+Construction Area
+
+20% business use
+90% residential (according to 2042)
+
+32
+
+---Page 33
+NEO-KOBE-CITY
+-Neo-Cove City.
+
+Old Port Island
+
+Former Port Island, which had been sinking by 3cm per year since the beginning of 1980, was completely submerged by the Gobo Offshore Earthquake in 1994.
+In 1995, Kouvet City had a plan to use the metal resources of the former Port Island as part of a new artificial island project, but the plan was abandoned due to cost concerns. Today, a vast amount of metal resources still lie on the old Port Island.
+
+Neo-Koube City
+
+Old Port Island
+
+Old Port Island MAP
+
+artificial island construction method
+
+As the ground is fragile and there are many dormant volcanoes in Japan, the risk of submersion is unavoidable in the case of reclaimed earth and sand. In the new island construction method, a steel frame with a maximum width of 1.25mm is coated with a hard resin coating of 5mm to prevent corrosion for the base. The steel frame (super frame) is buried up to 90m below the ground and the foundation is 2.5m above standard sea level to provide a solid ground and allow for water penetration by high waves and other events.
+The ground is 2.5m above the standard sea level, and it is designed to accommodate solid ground and high waves, etc. However, even with this method, Neo-Koube City has been sinking at an average rate of 8mm per year for 10 years between 2032 and 2042.
+
+About 4.82 million superframes have been used in the construction of Neo-Koube City, including the new Kobe Airport.
+
+33
+
+---Page 34
+Neo-Cove's energy form
+
+Åú
+Conventional energy forms
+
+Liquefied natural gas (LNG)
+
+LNG storage terminal plants are clustered in the southern end of the Neo-Cove region.
+
+Nuclear power
+
+In 1992, the first nuclear power plant in Kobe, "Kuroshio", started up. Since then, we have had no accidents.
+
+Nuclear Fusion
+
+In 2030, the Kansai region's first fusion reactor, Prometheus, will start up. The proportion of electricity supplied has been increasing every year.
+
+Oil
+
+Half of the oil storage terminal plant has been abandoned since the turn of the century. Various events have been held in the City using this abandoned plant.
+
+Åú
+Use of Renewable Energy
+
+solar power generation
+
+Various on-orbit, solar-powered population satellites will send the converted solar energy to us 24 hours a day, aggregating it from various on-orbit, solar-powered satellites.
+
+Wave power generation
+
+A wave power plant has been installed on the embankment surrounding the south side of Neo-Cove to achieve high energy recovery efficiency.
+
+Thermoelectric power generation
+
+A total of three thermoelectric plants have been activated on the coast of Neo-Kouvet. They make use of the temperature difference between the surface seawater and the surface of Koobe.
+
+Hydroelectric power generation
+
+Today, 80% of hydroelectricity is generated by the Ina River, a man-made river.
+
+
+Neo-Cove Energy Supply in 2042
+
+LNG
+13%.
+
+hydraulic power
+10%.
+
+nuclear power
+30%.
+
+oil
+30%.
+
+Other
+17%.
+
+(2042 study)
+
+
+A seawater uranium recovery system is one of the power generation facilities that is currently attracting attention. The seawater uranium recovery system is a concept of Tenjo Corporation and Kobe Electric Power Company, and the offshore plant is currently under construction.
+The seawater uranium recovery system plant will perform uranium adsorption, enrichment, solvent, extraction, precipitation, filtration, and processing of uranium dissolved in seawater in an integrated manner for nuclear power generation.
+It is expected to achieve an energy supply rate of 20% by 2053.
+
+34
+
+---Page 35
+BATTLE-TECHNIQUE
+-Battle Techniques.
+
+Basic Battle Techniques
+
+The player can attack enemies part by part when attacking with a gun. (It attacks a target set point.) There are various types of enemies, such as strong attackers, thickly armored and fast ones. Depending on the enemy type, you have to think of a strategy to attack.
+When the enemy's LIFE is 0, the enemy is destroyed.
+
+Åú
+antenna
+Åú
+
+Send out a radio wave from here to collect your fellow Metal Creatures.
+When you attack, you can battle without creating more enemies.
+
+Åú
+weapons
+Åú
+
+Enemies with high attack power will have their attack power reduced when they attack the muzzle.
+However, be aware that some enemies will self-destruct and damage the player with the blast if the weapon becomes completely unusable.
+
+Åú
+IMODUL
+Åú
+
+Attacking here lowers your ability to see the player, misses your aim and prevents you from attacking accurately.
+
+Åú
+buddy
+Åú
+
+Important mechanisms are gathered together and LIFE is lowered.
+
+Åú
+Drive Unit
+Åú
+
+When you attack, you can slow down an enemy.
+Speedy enemies will run away if you attack them, so aim at their legs first.
+
+35
+
+---Page 36
+Application I
+<To gather friends and defeat fast enemies
+
+1.
+Aim at the enemy's key points and they'll dodge, so first, shoot them in the foot to stop them from moving.
+
+Ugh.
+
+2.
+Break a leg, and we're on our own. Break the antennae before you get your people together.
+
+Geez.
+
+3.
+In this case, it's just a big fat boy. Let's take our time and aim at the body of the thing.
+
+Oh, my God!
+
+36
+
+---Page 37
+Application II
+<<To take down an enemy with good offensive power and accurate aim>>
+
+1.
+First, aim at the tricky Aymodule.
+This will make it harder for the enemy's attacks to hit you.
+
+Heehee.
+
+2.
+Just in case you want to attack the enemy's weapons too, it's perfect!
+The enemy can't do anything about it anymore.
+
+Eh.
+
+3.
+The only thing left to do is to destroy it by tormenting it slowly.
+
+Erm.........
+
+37
+
+---Page 38
+About SCC
+
+The SCC built into the SD-SNATCHER sound cartridges is a wave generator LSI developed for the MSX and arcade.
+
+(1)
+It has five output ports, and when used in conjunction with the MSX sound generator (PSG), all eight polyphonic outputs can be achieved.
+
+(2)
+This is an amazing wave generator LSI that incorporates a waveform synthesis data RAM for freely setting waveforms, allowing you to freely create waveforms suitable for games.
+
+(3)
+This allows for unique tone reproduction that cannot be achieved with PSG or FM sound sources.
+
+Note: SNATCHER sound cartridges (RA004) cannot be used in conjunction with this product.
+
+Åú
+This manual will not be reissued, except for missing pages or loose pages.
+
+Åú
+This product is an original work developed by Konami Corporation. Reproduction of images, sounds, programs, printed materials, etc. without our permission is prohibited.
+
+Åú
+If, however, you have any questions, please contact the MSX department of Konami Corporation at the following address
+
+Kanto Area
+3-25 Kanda Jimbocho, Chiyoda-ku, Tokyo 101, Japan
+Tel: +81-3-264-5678
+
+Kansai area
+4-23-18 Shonai Sakae-machi, Toyonaka-shi, Osaka 561
+Tel: 06-334-0335
+
+Please be sure to contact us by phone or other means before you send us your items directly.
+
+Åú
+MSX is a registered trademark of ASCII Corporation.
+
+---Back cover
+Konami Corporation
+
+3-25, Kanda Jimbocho 3-chome, Chiyoda-ku, Tokyo 101, Japan
+Tel. +81-3-264-5678 (switchboard)
+
+4-23-18 Shonai Sakae-machi, Toyonaka-shi, Osaka 561
+Tel. 06-334-0335 (switchboard)
+
+Konami Telephone Service
+
+Hokkaido areaÅzSapporo 011(241)4900
+Tohoku Region] Aomori 0177(22)5731
+Akita 0188(24)7000
+Kanto areaÅzTokyo 03(262)9110
+Hokuriku areaÅzNiigata 025(229)1141
+
+Kansai areaÅzOsaka 06(334)0399
+Kyushu area] 092 (715) 8200
+Omuta 0944(55)4444
+Kagoshima 0994(72)0606
+Kanoya 0994(44)3977
+
+No.950271
+
